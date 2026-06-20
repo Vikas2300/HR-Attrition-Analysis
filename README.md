@@ -128,3 +128,4 @@ Organizations can track gender representation and support diversity goals.
 The dashboard transforms raw HR data into actionable insights that support strategic workforce management and organizational growth.
 
 6. Screenshot
+https://github.com/Vikas2300/HR-Attrition-Analysis/blob/main/Screenshot%202026-06-20%20165738.png
