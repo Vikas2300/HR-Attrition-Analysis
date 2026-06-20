@@ -19,9 +19,7 @@ A dynamic and interactive Power BI dashboard designed to analyze employee attrit
 
 • 📁 File Format – .pbix/.pbit for development and reporting.
 
-4. Source:
-
-HR Management System (Sample HR Dataset)
+4. Source: HR Management System (Sample HR Dataset)
 
 The dataset contains employee-related information including:
 
